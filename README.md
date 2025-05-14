@@ -6,7 +6,7 @@ I'm an undergraduate student at **UC Santa Cruz**, currently studying Technology
 
 Here are a few of my data analysis projects — feel free to explore:
 
-- [Washington Vehicle Exploratory Data Analysis](https://github.com/matthewcendana/Washington_Electric_Vehicle_Analysis) –An exploratory data analysis of electric vehicles registered in Washington state using Python libraries such as Pandas, Matplotlib, and Seaborn to uncover trends, patterns, and insights from the dataset.
+- [Washington Electric Vehicle Exploratory Data Analysis](https://github.com/matthewcendana/Washington_Electric_Vehicle_Analysis) –An exploratory data analysis of electric vehicles registered in Washington state using Python libraries such as Pandas, Matplotlib, and Seaborn to uncover trends, patterns, and insights from the dataset.
 
 
 ## 🌐 Connect With Me
