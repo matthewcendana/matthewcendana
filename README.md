@@ -1,6 +1,6 @@
 # Hi, I'm Matthew 👋
 
-I'm an undergraduate student at **UC Santa Cruz**, currently studying Technology and Information Management. I'm passionate about turning data into meaningful insights and am working towards a career as a **data analyst**.
+I'm an undergrad at **UC Santa Cruz**, currently studying Technology and Information Management. I'm passionate about turning data into meaningful insights and am working towards a career as a **data analyst**.
 
 ## 📊 Projects
 
