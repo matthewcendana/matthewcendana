@@ -6,7 +6,7 @@ I'm an undergrad at **UC Santa Cruz**, currently studying Technology and Informa
 
 Here are a few of my data analysis projects — feel free to explore:
 
-- [Splash Map](https://github.com/matthewcendana/splash-map) - (CURRENTLY IN PROGRESS) An interactive dashboard that generates shot selection heatmaps for each of the NBA’s Top 100 players from the 2024–25 regular season.
+- [Splash Map](https://github.com/matthewcendana/splash-map) - An interactive dashboard that generates shot selection heatmaps for each of the NBA’s Top 100 players from the 2024–25 regular season.
 - [Washington Electric Vehicle Exploratory Data Analysis](https://github.com/matthewcendana/Washington_Electric_Vehicle_Analysis) –An exploratory data analysis of electric vehicles registered in Washington state using Pandas and Matplotlib to uncover trends, patterns, and insights from the dataset.
 
 
