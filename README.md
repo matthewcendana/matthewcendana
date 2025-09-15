@@ -14,6 +14,5 @@ Here are a few of my data analysis projects — feel free to explore:
 # 🌐 Connect With Me
 
 - [LinkedIn](https://www.linkedin.com/in/matthew-cendana/)  
-- [Kaggle](https://www.kaggle.com/matthewcendana)
 
 Thanks for visiting!
