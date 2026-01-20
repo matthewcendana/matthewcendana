@@ -5,7 +5,7 @@ I'm an undergrad at **UC Santa Cruz**, currently studying Technology & Informati
 # 📊 Projects
 
 Here are a few of my data analysis projects — feel free to explore:
-
+- [PinTheSlug](https://github.com/kdelmo1/geo_slug) - A Geoguessr-style game for UCSC students new to campus. Developed for Cruzzhacks 2026.
 - [Upcoming Anime Sentiment Analysis](https://github.com/matthewcendana/top_anime_dashboard) - Sentiment analysis on Summer 2025 - Winter 2026 anime using social media data and Google Gemini.
 - [Splash Map](https://github.com/matthewcendana/splash-map) - An interactive dashboard that generates shot selection heatmaps for each of the NBA’s Top 100 players from the 2024–25 regular season.
 - [SF Collision Analysis](https://github.com/matthewcendana/sf-car-collision-analysis) - Repository documenting an exploratory data analysis of a dataset of SF traffic collisions from 2005-2025. 
